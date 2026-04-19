@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Termos de Uso</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      color: #58a6ff;
+    }
+
+    h2 {
+      margin-top: 30px;
+      color: #79c0ff;
+    }
+
+    p, li {
+      line-height: 1.6;
+    }
+
+    .box {
+      background: #161b22;
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #8b949e;
+    }
+
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <h1>📜 Termos de Uso – Bot Hadak</h1>
+    <p><strong>Última atualização:</strong> 19/04/2026</p>
+
+    <div class="box">
+      <p>
+        Ao adquirir e utilizar nossos serviços, você concorda integralmente com os presentes Termos de Uso.
+        Caso não concorde, não utilize o serviço.
+      </p>
+    </div>
+
+    <h2>1. Acesso ao Serviço</h2>
+    <ul>
+      <li>O acesso é liberado após a confirmação do pagamento.</li>
+      <li>O uso é individual, pessoal e intransferível.</li>
+      <li>O usuário é responsável pela segurança de sua conta.</li>
+    </ul>
+
+    <h2>2. Pagamentos</h2>
+    <ul>
+      <li>Todos os pagamentos são antecipados.</li>
+      <li>Não oferecemos testes gratuitos.</li>
+      <li>O acesso é conforme o plano adquirido.</li>
+    </ul>
+
+    <h2>3. Reembolsos</h2>
+    <ul>
+      <li>Pagamentos não são reembolsáveis.</li>
+      <li>Exceções podem ocorrer em falhas técnicas comprovadas.</li>
+      <li>Erros do usuário não são elegíveis para reembolso.</li>
+    </ul>
+
+    <h2>4. Conduta do Usuário</h2>
+    <ul>
+      <li>É proibido compartilhar acesso.</li>
+      <li>É proibido revender o serviço.</li>
+      <li>É proibido explorar falhas ou vulnerabilidades.</li>
+      <li>Violações resultam em banimento sem reembolso.</li>
+    </ul>
+
+    <h2>5. Disponibilidade</h2>
+    <ul>
+      <li>O serviço pode sofrer interrupções.</li>
+      <li>Manutenções podem ocorrer sem aviso prévio.</li>
+    </ul>
+
+    <h2>6. Suporte</h2>
+    <ul>
+      <li>Oferecido apenas para funcionamento do painel.</li>
+      <li>Não inclui customizações ou integrações externas.</li>
+    </ul>
+
+    <h2>7. Alterações</h2>
+    <ul>
+      <li>Os termos podem ser atualizados a qualquer momento.</li>
+      <li>O uso contínuo implica aceitação das mudanças.</li>
+    </ul>
+
+    <h2>8. Limitação de Responsabilidade</h2>
+    <ul>
+      <li>O serviço é fornecido "como está".</li>
+      <li>Não nos responsabilizamos por perdas ou danos indiretos.</li>
+    </ul>
+
+    <h2>9. Contato</h2>
+    <p>
+      📧 Email: copalagosofc@gmail.com<br>
+      💬 Discord: vitaomv
+    </p>
+
+    <footer>
+      <p>© 2026 - Hadak Team / Hadak</p>
+    </footer>
+
+  </div>
+</body>
+</html>
